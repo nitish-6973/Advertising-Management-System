@@ -1,6 +1,6 @@
 # 📢 Advertising Management System – C++ Project
 
-The **Advertising Management System** is a console-based project built using **C++**, focusing on real-world application of **Object-Oriented Programming (OOP)** concepts and **file handling**. This project allows businesses to choose different types of advertisement packages, calculate the cost, and generate invoices in a simple and interactive way.
+The **Advertising Management System** is a console-based project built using **C++**, focusing on real-world application of **Object-Oriented Programming (OOPs)** concepts and **file handling**. This project allows businesses to choose different types of advertisement packages, calculate the cost, and generate invoices in a simple and interactive way.
 
 
 ---
